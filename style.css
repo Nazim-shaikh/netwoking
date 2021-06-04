@@ -1,0 +1,26 @@
+body {
+	background-image:url(main.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	text-align:center;
+	font-size:26px;
+	color:white;
+	
+}
+#head{
+	text-align:center;
+	font-size:35px;
+	color:#000000;
+	font-style:italic;
+	background-color:#ffffff87;
+	border-radius:25px;
+}
+#p{
+	text-align:left-side;
+	font-size:35px;
+	color:#000000;
+	font-style:italic;
+	word-wrap:break-word;
+	background-color:#ffffffb3;
+	border-radius:25px;
+}
